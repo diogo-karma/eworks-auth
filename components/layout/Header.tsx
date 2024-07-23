@@ -17,6 +17,8 @@ import { usePathname, useRouter } from 'next/navigation';
 
 const pages = [
     { title: 'Home', href: '/' },
+    { title: 'Karma.yt', href: 'https://karma.yt' },
+    { title: 'Pollinations.ai', href: 'https://karma.pollinations.ai' },
     { title: 'Todos', href: '/todos' },
 ];
 

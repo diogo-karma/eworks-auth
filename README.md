@@ -1,4 +1,4 @@
-# Eworks trello like by KARMA.yt
+# Trello's like by KARMA.yt
 
 This project is a simple authentication experiment using Google, Apple, Email, and SMS, with an application similar to Trello. It is a comprehensive example of integrating Next.js with Supabase, Clerk, and Material UI to create a robust TODO application. It showcases CRUD operations, authentication, and a modern UI design.
 
@@ -28,7 +28,7 @@ We are also in the alpha phase of migrating to Tailwind CSS and integrating paym
 Clone the repository:
 
 ```bash
-git clone https://github.com/diogo-karma/eworks-auth.git
+git clone https://github.com/diogo-karma/karma-auth.git
  ```
 
 Install dependencies:
@@ -50,5 +50,5 @@ npm run dev
 yarn dev
 ```
 
-Diogo "Karrma" Tzion <dg@karma.yt>
+Diogo "Karma" Tzion <dg@karma.yt>
 License: MIT

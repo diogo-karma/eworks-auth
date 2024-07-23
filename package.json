@@ -1,6 +1,7 @@
 {
-  "name": "karma-eworks-auth",
-  "version": "0.1.`0`",
+  "name": "karma-auth",
+  "version": "0.2.0",
+  "author": "Diogo Tzion <dg@karma.yt>",
   "private": true,
   "scripts": {
     "dev": "next dev",
